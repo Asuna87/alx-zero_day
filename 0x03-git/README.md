@@ -1,1 +1,1 @@
-This is the 0x03-git folder readme
+This is the README file for the 0x03-git directory.
